@@ -59,12 +59,7 @@ public class A1113312_0505_1
         }
         else
         {
-            System.out.println("you miss !");
-            System.out.println("the win numbers are:");
-            for(int r:real)
-            {
-                System.out.println(r);
-            }
+            System.out.println("you miss !")
         }
         sc.close();
     }
