@@ -63,7 +63,7 @@ class storethread extends Thread
             System.out.println("we have "+beef+" beef dumpling ; "+pork+" pork dumpling ; "+vegtable+" vegtable dumpling");
             try
             {
-                storethread.sleep(10);
+                storethread.sleep(3000);
             }
             catch(InterruptedException e)
             {}
